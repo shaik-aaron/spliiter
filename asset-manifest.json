@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/splitter/static/js/main.a140fef5.js",
+    "index.html": "/splitter/index.html",
+    "main.a140fef5.js.map": "/splitter/static/js/main.a140fef5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a140fef5.js"
+  ]
+}
